@@ -16,4 +16,4 @@ services:
       - key: TWINGATE_LOG_ANALYTICS
         value: "v2"
       - key: TWINGATE_LABEL_DEPLOYEDBY
-        value: "render"
+        value: "vps"
